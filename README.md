@@ -14,15 +14,15 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
+<img src="https://kihamda.net/wp-content/uploads/2025/04/%E7%B5%B1%E4%B8%80%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3.png" width="100" height="100" alt="Flutter" />
+<br><strong>SNS Icon</strong>
 </td>
 <td width="500" align="left">
 
-### 👋 **Hi, I'm User!**
+### 👋 **Hi, I'm Kihamda!**
 🚀 **Flutter Developer** passionate about mobile development  
 
-🌍 **Location:** Japan 🇯🇵  
+🌍 **Location:** Japan 🇯🇵  Oska
 💼 **Focus:** Building beautiful mobile applications  
 ☕ **Powered by:** Coffee and curiosity  
 🎯 **Goal:** Creating amazing user experiences  
@@ -31,6 +31,12 @@
 </tr>
 </table>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kihamda&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+</div>
+
+
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kihamda&show_icons=true&theme=radical
@@ -45,9 +51,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kihamda&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kihamda&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
 
 
 
