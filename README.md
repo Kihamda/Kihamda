@@ -38,24 +38,33 @@
 
 
 <div align="center">
+     
+  # My Recent moment
+
+<table>
+  <tr>
+    <td>
+      <div align="center">
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kihamda&count_private=true&show_icons=true&theme=radical
+)](https://github.com/anuraghazra/github-readme-stats)
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kihamda&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+</div>
+    </td>
+    <td>
+ 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kvhasxxoxdq66t5hyphf6mhbyy)
+
+</td>
+  </tr>
+</table>
+
+</div>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kihamda&show_icons=true&theme=radical
 )](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kihamda&count_private=true&show_icons=true&theme=radical
-)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kihamda&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
-</div>
-
-
-
-
-# My Recent moment
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kvhasxxoxdq66t5hyphf6mhbyy)
-
-</div>
 
