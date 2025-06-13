@@ -20,12 +20,15 @@
 <td width="500" align="left">
 
 ### 👋 **Hi, I'm Kihamda!**
-🚀 **Flutter Developer** passionate about mobile development  
+🚀 **Web Devlope:r** passionate about web app development  
 
-🌍 **Location:** Japan 🇯🇵  Oska
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+🌍 **Location:** Japan 🇯🇵, Osaka🐙
+
+💼 **Focus:** Learn React and Node.js
+
+☕ **Powered by:** A cup of coffee and tea
+
+🎯 **Goal:** Creating amazing apps  
 
 </td>
 </tr>
@@ -62,9 +65,5 @@
 
 </div>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kihamda&show_icons=true&theme=radical
-)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
