@@ -20,7 +20,7 @@
 <td width="500" align="left">
 
 ### 👋 **Hi, I'm Kihamda!**
-🚀 **Web Devlope:r** passionate about web app development  
+🚀 **Web Devloper:** passionate about web app development  
 
 🌍 **Location:** Japan 🇯🇵, Osaka🐙
 
@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kihamda&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kihamda&custom_title=My%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
 
