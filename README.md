@@ -14,7 +14,7 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://kihamda.net/wp-content/uploads/2025/04/%E7%B5%B1%E4%B8%80%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3.png" width="100" height="100" alt="Flutter" />
+<img src="https://kihamda.net/wp-content/uploads/2025/07/%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3%E7%94%A8.jpg" width="100" height="100" alt="Flutter" />
 <br><strong>SNS Icon</strong>
 </td>
 <td width="500" align="left">
