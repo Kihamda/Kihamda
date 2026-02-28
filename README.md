@@ -48,10 +48,6 @@
   <tr>
     <td>
       <div align="center">
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kihamda&count_private=true&show_icons=true&theme=radical
-)](https://github.com/anuraghazra/github-readme-stats)
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kihamda&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
 </div>
     </td>
