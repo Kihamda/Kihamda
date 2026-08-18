@@ -48,12 +48,12 @@
   <tr>
     <td>
       <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kihamda&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+  ![trophy](https://github-profile-trophy.vercel.app/?username=kattni)
 </div>
     </td>
     <td>
  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31kvhasxxoxdq66t5hyphf6mhbyy)
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31kvhasxxoxdq66t5hyphf6mhbyy&count=9&radius=11&unique=1&duration=1&album=1)
 
 </td>
   </tr>
