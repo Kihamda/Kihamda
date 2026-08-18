@@ -48,15 +48,13 @@
   <tr>
     <td>
       <div align="center">
-        [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Kihamda&layout=donut&langs_count=9&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Kihamda&layout=donut&langs_count=9&theme=transparent)
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</div>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Kihamda&layout=donut&langs_count=9&theme=transparent" />
+        <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+      </div>
     </td>
     <td>
- 
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31kvhasxxoxdq66t5hyphf6mhbyy&count=9&radius=11&unique=1&duration=1&album=1)
-
-</td>
+      ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31kvhasxxoxdq66t5hyphf6mhbyy&count=9&radius=11&unique=1&duration=1&album=1)
+    </td>
   </tr>
 </table>
 
