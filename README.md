@@ -48,7 +48,7 @@
   <tr>
     <td>
       <div align="center">
-  ![trophy](https://github-profile-trophy.vercel.app/?username=kattni)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
     </td>
     <td>
