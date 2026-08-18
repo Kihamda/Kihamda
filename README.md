@@ -56,7 +56,7 @@
 
 ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31kvhasxxoxdq66t5hyphf6mhbyy&count=9&radius=11&unique=1&duration=1&album=1)
 
-    </td>
+  </td>
   </tr>
 </table>
 
