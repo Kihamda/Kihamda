@@ -48,6 +48,7 @@
   <tr>
     <td>
       <div align="center">
+        [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Kihamda&layout=donut&langs_count=9&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=Kihamda&layout=donut&langs_count=9&theme=transparent)
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
     </td>
